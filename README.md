@@ -28,10 +28,10 @@
 	localhost/livecms/index.php/Admin/Login/index  
 超级管理员  
 	账号 admin  
-	密码 123456  
+	密码 admin  
 测试  
 	账号 ceshi  
-	密码 123456
+	密码 admin
 ```
 ### 部分页面展示(点击查看大图)
 ![后台](https://raw.githubusercontent.com/duiying/livecms/master/readmeimg/admin.png)
