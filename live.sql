@@ -30,8 +30,8 @@ CREATE TABLE `live_admin` (
 -- ----------------------------
 -- Records of live_admin
 -- ----------------------------
-INSERT INTO `live_admin` VALUES ('1', 'admin', 'live99_e10adc3949ba59abbe56e057f20f883e', '0');
-INSERT INTO `live_admin` VALUES ('2', 'bianji', 'live99_e10adc3949ba59abbe56e057f20f883e', '9');
+INSERT INTO `live_admin` VALUES ('1', 'admin', 'live99_21232f297a57a5a743894a0e4a801fc3', '0');
+INSERT INTO `live_admin` VALUES ('2', 'bianji', 'live99_21232f297a57a5a743894a0e4a801fc3', '9');
 
 -- ----------------------------
 -- Table structure for live_article
